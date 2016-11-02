@@ -1,7 +1,7 @@
 /*
 **************************POSIBLES MEJORAS******************************
 -Añadir un sistema de busqueda, para abstraer al cliente de buscar la ID
-
+-Añadir mas opciones.
 
 
 ************************************************************************
